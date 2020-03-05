@@ -1,5 +1,4 @@
-/*
- * task_A.c
+/* task_A.c
  *
  * Calvin Skinner
  * Susan Hasting
